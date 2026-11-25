@@ -33,7 +33,8 @@ After each story you can ask for changes ("make Bob sillier", "shorter please").
 
 ![Architecture: user, pipeline, intake, planner, storyteller, judge, code checks](docs/architecture.png)
 
-The same flow as a Mermaid diagram, showing the prompts and the interactions between the user, intake, planner, storyteller, judge and code checks (purple = LLM calls, green = plain Python):
+<details>
+<summary><b>Step-by-step flow</b> (click to expand): every decision point and exit, as a flowchart</summary>
 
 ```mermaid
 flowchart TD
@@ -77,7 +78,9 @@ flowchart TD
     class S,L,C,D,K,G code
 ```
 
-Each box is **one model call with its own prompt** ([storyteller/prompts/](storyteller/prompts/)). Python decides what runs next ([pipeline.py](storyteller/pipeline.py)). A clean run takes 4 calls; with both revision rounds it takes 8 (plus one retry if a structured output comes back unusable). Every turn writes a JSON trace to `runs/` with each draft, verdict, revision note, token count and timing.
+</details>
+
+Each purple box is **one model call with its own prompt**; green boxes are plain Python ([storyteller/prompts/](storyteller/prompts/)). Python decides what runs next ([pipeline.py](storyteller/pipeline.py)). A clean run takes 4 calls; with both revision rounds it takes 8 (plus one retry if a structured output comes back unusable). Every turn writes a JSON trace to `runs/` with each draft, verdict, revision note, token count and timing.
 
 ## Design decisions
 
