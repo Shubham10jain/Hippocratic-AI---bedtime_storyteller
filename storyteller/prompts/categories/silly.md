@@ -1,0 +1,1 @@
+Gentle absurdity with escalating comic logic. Use the rule of three: two attempts go comically wrong, the third works in a surprising way. Playful sound words and funny specifics are welcome; humour is never at anyone's expense. After the biggest laugh (beat 5), let the giggles fade into a calm, sleepy ending.

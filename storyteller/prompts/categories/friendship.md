@@ -1,0 +1,1 @@
+A story about how characters treat each other. Name a feeling and show it through what a character does. Include a small misunderstanding, a moment of left-out-ness, or a worry about a friend, repaired through listening, kindness or an apology. The ending feels safe and loved.

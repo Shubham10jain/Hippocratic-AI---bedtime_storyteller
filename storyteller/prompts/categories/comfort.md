@@ -1,0 +1,3 @@
+The child has a worry (it is in the request). A character shares that same worry; it is taken seriously, never dismissed as silly. A trusted figure listens. Together they find one gentle coping idea a real child could use in bed tonight (slow breaths, a brave word, a night-light, hugging a soft toy). The worry gets smaller, not magically gone.
+
+Never fight or defeat the feared thing, and never make it threatening. If the child asked for a story about the feared thing itself (the monster under the bed), it may appear, but turn out to be smaller, shyer or kinder than imagined, so the fear shrinks rather than being confirmed.

@@ -1,0 +1,1 @@
+A journey with a clear goal and two or three small obstacles. Make it exciting, never scary: obstacles are puzzles, weather, tricky paths, not villains to fight. The heroes succeed through courage, teamwork and clever thinking. The goal is reached by beat 5, and beat 6 brings them home or somewhere safe to rest.

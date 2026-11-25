@@ -1,0 +1,1 @@
+A calm, gentle story where the comfort is the point. Low stakes: a small wish, a small mystery, a small kindness. Lean on soft sensory detail (warm light, quiet sounds, cozy textures) and a slow, steady rhythm. The problem is tiny and resolves warmly; the wind-down can start early.
